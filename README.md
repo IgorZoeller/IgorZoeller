@@ -3,8 +3,6 @@ Undergraduate in Electrical Engineering - Emphasis in Electronic Systems at the 
 
 I'm a Software Developer with interest in Backend Developing, Machine Learning, Computer Vision, IoT, Embedded Systems, Signal Processing & more!
 
-Currently working as a Production Engineer at Goldman Sachs' AppBank Operations Team.
-
 ## Former Experiences:
 Research Intern on Computer Vision at [LSITEC](https://www.lsitec.org.br/) <br>
 
