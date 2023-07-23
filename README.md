@@ -1,6 +1,6 @@
 ### Hi there, my name is Igor Zoeller! 👋
 Undergraduate in Electrical Engineering - Emphasis in Electronic Systems at the University of São Paulo (USP) <br>
-Currently working at [Goldman Sachs](https://www.linkedin.com/company/goldman-sachs/mycompany/verification/)' AppBank Operations team
+Analyst at [Goldman Sachs](https://www.linkedin.com/company/goldman-sachs/mycompany/verification/)' AppBank Operations team
 
 I'm a Software Developer with interest in Backend Developing, Machine Learning, Computer Vision, IoT, Embedded Systems, Signal Processing & more!
 
